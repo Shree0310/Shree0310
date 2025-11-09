@@ -45,6 +45,12 @@ I'm a passionate Frontend Engineer with 6 years of experience building scalable 
 
 ### 🎯 Featured Projects
 
+#### 📋 [Achievr](https://github.com/Shree0310/Achievr)
+Kanban board app for tracking personal goals and productivity
+- **Tech Stack**: React, JavaScript, Local Storage API
+- **Features**: Drag-and-drop interface, progress tracking, task management
+- 🔗 [Live Demo](https://achievr.sourashreeart.com/)
+
 #### 🤖 [Netflix-GPT](https://github.com/Shree0310/netflix-gpt)
 A Netflix clone with GPT-3 integration for enhanced user experience
 - **Tech Stack**: React, OpenAI GPT-3, Tailwind CSS
@@ -56,12 +62,6 @@ Online food ordering application with modern UI/UX
 - **Tech Stack**: React, Tailwind CSS, JavaScript
 - **Features**: Real-time menu updates, cart management, responsive design
 - 🔗 [Live Demo](https://foodie.sourashreeart.com/)
-
-#### 📋 [Achievr](https://github.com/Shree0310/Achievr)
-Kanban board app for tracking personal goals and productivity
-- **Tech Stack**: React, JavaScript, Local Storage API
-- **Features**: Drag-and-drop interface, progress tracking, task management
-- 🔗 [Live Demo](https://achievr.sourashreeart.com/)
 
 ### 📊 GitHub Stats
 
