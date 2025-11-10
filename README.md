@@ -12,6 +12,26 @@ I'm a passionate Frontend Engineer with 6 years of experience building scalable 
 - 📍 Based in **Bangalore, India**
 - 💬 Ask me about **React, Next.js, TypeScript, framer motion animations, tailwind css, AI integration, and modern frontend architecture**
 
+### 🎯 Featured Projects
+
+#### 📋 [Achievr](https://github.com/Shree0310/Achievr)
+Kanban board app for tracking personal goals and productivity
+- **Tech Stack**: React, JavaScript, Local Storage API
+- **Features**: Drag-and-drop interface, progress tracking, task management
+- 🔗 [Live Demo](https://achievr.sourashreeart.com/)
+
+#### 🤖 [Netflix-GPT](https://github.com/Shree0310/netflix-gpt)
+A Netflix clone with GPT-3 integration for enhanced user experience
+- **Tech Stack**: React, OpenAI GPT-3, Tailwind CSS
+- **Features**: AI-powered movie recommendations, personalized content discovery
+- 🔗 [Live Demo](https://moviesgpt.sourashreeart.com/)
+
+#### 🍔 [Foodie](https://github.com/Shree0310/Foodie)
+Online food ordering application with modern UI/UX
+- **Tech Stack**: React, Tailwind CSS, JavaScript
+- **Features**: Real-time menu updates, cart management, responsive design
+- 🔗 [Live Demo](https://foodie.sourashreeart.com/)
+
 ### 🛠️ Tech Stack
 
 #### Frontend
@@ -41,26 +61,6 @@ I'm a passionate Frontend Engineer with 6 years of experience building scalable 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🎯 Featured Projects
-
-#### 📋 [Achievr](https://github.com/Shree0310/Achievr)
-Kanban board app for tracking personal goals and productivity
-- **Tech Stack**: React, JavaScript, Local Storage API
-- **Features**: Drag-and-drop interface, progress tracking, task management
-- 🔗 [Live Demo](https://achievr.sourashreeart.com/)
-
-#### 🤖 [Netflix-GPT](https://github.com/Shree0310/netflix-gpt)
-A Netflix clone with GPT-3 integration for enhanced user experience
-- **Tech Stack**: React, OpenAI GPT-3, Tailwind CSS
-- **Features**: AI-powered movie recommendations, personalized content discovery
-- 🔗 [Live Demo](https://moviesgpt.sourashreeart.com/)
-
-#### 🍔 [Foodie](https://github.com/Shree0310/Foodie)
-Online food ordering application with modern UI/UX
-- **Tech Stack**: React, Tailwind CSS, JavaScript
-- **Features**: Real-time menu updates, cart management, responsive design
-- 🔗 [Live Demo](https://foodie.sourashreeart.com/)
 
 ### 📊 GitHub Stats
 
