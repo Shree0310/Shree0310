@@ -1,6 +1,6 @@
 # Hi there, I'm Sowrasree 👋
 
-## Frontend Engineer | Design Engineer | AI Enthusiast | React Specialist
+## Frontend Engineer | Design Engineer | AI Enthusiast 
 
 I'm a passionate Frontend Engineer with 6 years of experience building scalable web applications and AI-powered features. Currently working at EPAM Systems with Google as a client, where I specialize in creating intelligent user experiences.
 
@@ -9,7 +9,6 @@ I'm a passionate Frontend Engineer with 6 years of experience building scalable 
 - 🔭 Currently working on **AI-powered features** 
 - 🌱 Exploring **Next.js 14+, React Server Components, and AI integration**
 - 💼 **6 years** of professional experience in frontend development
-- 🎯 Looking to join **early-stage AI startups** where I can make significant impact
 - 📍 Based in **Bangalore, India**
 - 💬 Ask me about **React, Next.js, TypeScript, framer motion animations, tailwind css, AI integration, and modern frontend architecture**
 
