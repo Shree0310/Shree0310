@@ -1,4 +1,4 @@
-# Hi there, I'm Sowrasree 👋
+# Hi there, I'm Sourashree 👋
 
 ## Frontend Engineer | Design Engineer | AI Enthusiast 
 
