@@ -6,7 +6,6 @@ I'm a passionate Frontend Engineer with 6 years of experience building scalable 
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **AI-powered features** 
 - 🌱 Exploring **Next.js 14+, React Server Components, and AI integration**
 - 💼 **6 years** of professional experience in frontend development
 - 📍 Based in **Bangalore, India**
@@ -18,7 +17,7 @@ I'm a passionate Frontend Engineer with 6 years of experience building scalable 
 Kanban board app for tracking personal goals and productivity
 - **Tech Stack**: React, JavaScript, Local Storage API
 - **Features**: Drag-and-drop interface, progress tracking, task management
-- 🔗 [Live Demo](https://achievr.sourashreeart.com/)
+- 🔗 [Live Demo](https://achievr.sourashreeart.com/hero)
 
 #### 🤖 [Netflix-GPT](https://github.com/Shree0310/netflix-gpt)
 A Netflix clone with GPT-3 integration for enhanced user experience
@@ -26,11 +25,6 @@ A Netflix clone with GPT-3 integration for enhanced user experience
 - **Features**: AI-powered movie recommendations, personalized content discovery
 - 🔗 [Live Demo](https://moviesgpt.sourashreeart.com/)
 
-#### 🍔 [Foodie](https://github.com/Shree0310/Foodie)
-Online food ordering application with modern UI/UX
-- **Tech Stack**: React, Tailwind CSS, JavaScript
-- **Features**: Real-time menu updates, cart management, responsive design
-- 🔗 [Live Demo](https://foodie.sourashreeart.com/)
 
 ### 🛠️ Tech Stack
 
@@ -47,14 +41,6 @@ Online food ordering application with modern UI/UX
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-#### Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### AI & ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -62,22 +48,6 @@ Online food ordering application with modern UI/UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shree0310&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shree0310&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-### 🎓 What I'm Learning
-
-- Advanced React Server Components patterns
-- AI/ML integration in web applications
-- Performance optimization techniques
-- Accessibility best practices (WCAG 2.1)
 
 ### 🤝 Let's Connect!
 
